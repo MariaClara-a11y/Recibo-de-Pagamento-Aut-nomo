@@ -27,7 +27,9 @@ A proposta foi aplicar, na prática, conceitos aprendidos em Excel do básico ao
 - Expansão para controle financeiro completo
 
 # Preview
-*(adicione aqui imagens do projeto)*
+![Recibo](preview-recibo-3.png)
+![Recibo](preview-recibo-2.png)
+![Recibo](preview-recibo-1.png)
 
 # Arquivo do projeto
 - `Projeto Recibo de Pagamento Autônomo.xlsx`
