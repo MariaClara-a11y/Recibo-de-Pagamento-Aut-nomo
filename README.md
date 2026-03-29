@@ -37,7 +37,9 @@ A proposta foi aplicar, na prática, conceitos aprendidos em Excel do básico ao
 # Autora
 Maria Clara Furtado Nunes
 
-
-
 ## Considerações
 Este projeto faz parte do meu processo de desenvolvimento na área de dados, com foco em análise, automação e criação de soluções eficientes utilizando ferramentas como Excel, Power BI e SQL.
+
+## Aviso
+Os dados utilizados neste projeto são **fictícios** e foram criados exclusivamente para fins de estudo e treinamento.
+Este material não representa informações reais e não deve ser utilizado para fins oficiais.
