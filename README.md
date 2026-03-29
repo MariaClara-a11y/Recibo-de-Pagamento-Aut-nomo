@@ -1,8 +1,5 @@
-# Recibo-de-Pagamento-Autônomo
+# Recibo de Pagamento Autônomo
 Projeto em Excel desenvolvido no curso de Excel básico ao avançado (Udemy), simulando um recibo de pagamento para trabalhadores autônomos.
-
-# Recibo de Pagamento Autônoma
-Projeto desenvolvido em Excel com foco na automatização e organização de recibos para trabalhadores autônomos.
 
 # Sobre o projeto
 Este projeto consiste na criação de um modelo funcional de recibo de pagamento, com cálculos automatizados e estrutura otimizada para facilitar o preenchimento e controle financeiro.
